@@ -8,3 +8,6 @@ _Cleaning Data for Effective Data Science: Doing the Other 80% of the Work_
 
 Excerpts from the book material will be utilized, as well
 as both some of the same data sets and additional materials.
+
+Please contact cleaning@kdm.training for more information on the 
+book or suggestions about the webinar material.
