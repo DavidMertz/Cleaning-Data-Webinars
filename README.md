@@ -13,7 +13,7 @@ Please contact cleaning@kdm.training for more information on the
 book or suggestions about the webinar material.
 
 Note: Some larger data sets that are associated with the book
-and webina may be kept at a separate repository.  This is a 
+and webinar may be kept at a separate repository.  This is a 
 temporary organization, and will likely be updated later:
 
 >https://bitbucket.org/davidmertz/sample-data
