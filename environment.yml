@@ -38,6 +38,8 @@ dependencies:
     - pyreadstat
     - gensim
     - nltk
+    - simplejson
+    - pymongo
     - pip:
         - sqlalchemy-utils
         - vaex
